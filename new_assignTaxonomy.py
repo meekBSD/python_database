@@ -118,7 +118,6 @@ for k,v in d_cons.iteritems():
 d_taxonomy = {}
 tax_assign = Counter(most_tax)
 
-tax_color_file = open("temp_color_assign.txt", "w")
 tax_lab = 0
 tax_not_in = 53
 for ki, vi in tax_assign.most_common():
