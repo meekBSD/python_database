@@ -47,3 +47,8 @@ if __name__ == '__main__':
         Out.write(jsonData)
         #json.dump(jsonData, Out) 
 
+ # previous I thought I have right the script
+ # I use following command find them but nothing found.
+    #find ./ -name "*.py" | xargs grep "os"
+    #find ./ -name "*.py" | xargs grep "exit"
+    #find ./ -name "*.py" | xargs grep "pool"
