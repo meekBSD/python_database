@@ -5,6 +5,7 @@ pip3 install pymunk
 
 ## brew repos
 git remote set-url origin https://mirrors.aliyun.com/homebrew/homebrew-core.git
+
 brew update
 
 ## install library
